@@ -1,2 +1,3 @@
 # test
-first test repository
+My first repository
+and it is just a test.
